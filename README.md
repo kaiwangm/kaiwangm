@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 # Projects
 
-<img src="https://raw.githubusercontent.com/kaiwangm/Engine/main/Docs/Screenshots/Bistro.png" width=880 />
+<img src="https://raw.githubusercontent.com/kaiwangm/Engine/main/Docs/Screenshots/Bistro_Moonless.png" width=880 />
