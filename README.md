@@ -21,7 +21,6 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaiwangm/kaiwangm/output/github-snake.svg">
 </picture>
 
-
 <!--
 # Gallery
 
